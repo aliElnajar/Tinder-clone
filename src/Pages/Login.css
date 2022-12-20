@@ -1,0 +1,6 @@
+.form_ctrl {
+  display: flex;
+  flex-direction: column;
+  gap:20px;
+  margin-block: 15px;
+}
